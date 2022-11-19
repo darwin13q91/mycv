@@ -1,20 +1,23 @@
 {
-  "name": "myprofile",
+  "name": "mycv",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages- -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/darwin13q91/signupme.git"
+    "url": "git+https://github.com/darwin13q91/mycv.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/darwin13q91/signupme/issues"
+    "url": "https://github.com/darwin13q91/mycv/issues"
   },
-  "homepage": "https://github.com/darwin13q91/signupme",
-  "description": ""
+  "homepage": "https://github.com/darwin13q91/mycv",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
