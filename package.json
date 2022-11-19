@@ -1,7 +1,6 @@
 {
   "name": "mycv",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d dist"
@@ -19,5 +18,7 @@
   "homepage": "https://github.com/darwin13q91/mycv",
   "dependencies": {
     "gh-pages": "^4.0.0"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
