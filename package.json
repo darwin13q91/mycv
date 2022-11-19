@@ -1,7 +1,6 @@
 {
   "name": "myprofile",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages- -d dist"
@@ -16,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/darwin13q91/signupme/issues"
   },
-  "homepage": "https://github.com/darwin13q91/signupme"
+  "homepage": "https://github.com/darwin13q91/signupme",
+  "description": ""
 }
