@@ -1,0 +1,23 @@
+{
+  "name": "myprofile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/signupme/myprofile.git"
+  },
+  "keywords": [],
+  "author": "Darwin Estardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/signupme/myprofile/issues"
+  },
+  "homepage": "https://github.com/signupme/myprofile",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  },
+  "description": ""
+}
