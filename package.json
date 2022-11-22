@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/darwin13q91/mycv/issues"
   },
-  "homepage": "https://github.com/darwin13q91/mycv",
+  "homepage": "https://github.com/darwin13q91/mycv/dist/html",
   "dependencies": {
     "gh-pages": "^4.0.0"
   },
